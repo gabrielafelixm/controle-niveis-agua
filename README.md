@@ -1,13 +1,17 @@
 🌊 Controle de Níveis de Água
 Simulação de monitoramento com Python e Colorama
 
+
 📌 Descrição do Projeto
 Este projeto simula um sistema simples de monitoramento de níveis de água.
 Ele demonstra o uso de:
 
 ✔️ Listas
+
 ✔️ Funções
+
 ✔️ Biblioteca Colorama
+
 ✔️ Mensagens coloridas no terminal
 
 Cada nível é exibido com uma cor diferente, como em um sistema real de alerta.
