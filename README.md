@@ -26,6 +26,7 @@ O sistema possui 5 níveis de água, cada um com sua mensagem e cor:
 O programa percorre a lista de níveis e imprime cada mensagem com sua cor correspondente.
 
 🎯 Objetivo da Atividade
+
 O programa foi desenvolvido seguindo as orientações da atividade:
 
 Utilizar estruturas estudadas
