@@ -2,6 +2,7 @@
 Simulação de monitoramento com Python e Colorama
 
 
+
 📌 Descrição do Projeto
 
 Este projeto simula um sistema simples de monitoramento de níveis de água.
@@ -17,6 +18,8 @@ Ele demonstra o uso de:
 
 Cada nível é exibido com uma cor diferente, como em um sistema real de alerta.
 
+
+
 🧪 Como o programa funciona
 O sistema possui 5 níveis de água, cada um com sua mensagem e cor:
 
@@ -29,6 +32,8 @@ O sistema possui 5 níveis de água, cada um com sua mensagem e cor:
 | 5    | Muito alto (alerta)    | 🔷 Azul     |
 
 O programa percorre a lista de níveis e imprime cada mensagem com sua cor correspondente.
+
+
 
 🎯 Objetivo da Atividade
 
